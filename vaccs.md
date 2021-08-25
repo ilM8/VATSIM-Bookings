@@ -75,6 +75,24 @@
 
 ---
 
+> ## VATEUD
+
+- [ ] [vACC Austria](https://www.vacc-austria.org/index.php)
+- [ ] [vACC Germany](https://vatsim-germany.org/)
+- [ ] [vACC France](https://vatsim.fr/fr)
+- [ ] [vACC Spain](https://vatspa.es/)
+- [ ] [vACC Portugal](https://www.portugal-vacc.org/)
+- [ ] [vACC BeLux](https://beluxvacc.org/)
+- [ ] [vACC Scandinavia](https://vatsim-scandinavia.org/)
+- [ ] [vACC Czech](https://www.vacc-cz.org/en/)
+- [ ] [vACC Slovenia](http://www.vacc-slovenia.org/)
+- [ ] [vACC Hungary](https://vacchun.hu/en/)
+- [ ] [vACC Poland](https://www.pl-vacc.org.pl/newvacc/index.php)
+- [ ] [vACC ]()
+- [ ] [vACC ]()
+- [ ] [vACC ]()
+
+
 > ## VATIL
 - [ ] [VATIL](https://vatil.org.il/site/)
 
